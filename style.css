@@ -1,0 +1,14 @@
+h1 {
+    color:blueviolet;
+}
+body {
+    font-family: monospace, arial, sans-serif;
+}
+.highlight {
+    background-color: yellow;
+ }
+
+.error {
+    background-color: lightcoral;
+    border-color: red;
+ }
